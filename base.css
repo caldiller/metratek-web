@@ -1,0 +1,25 @@
+:root {
+	--logo-color1: #000080;
+	--logo-color2: #00b39b;
+}
+
+nav.navbar {
+	background: linear-gradient(to right, 
+		var(--logo-color1) 0%, 
+		var(--logo-color1) 45%,
+		var(--logo-color2) 55%,
+		var(--logo-color2) 100%);
+	box-shadow: 0 0 5px black;
+}
+
+nav.navbar > div.container {
+	background-color: var(--logo-color2);
+}
+
+a.navbar-brand {
+  padding: 0;
+}
+
+a.navbar-brand > img {
+  height: 100%;
+}
