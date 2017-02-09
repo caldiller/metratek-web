@@ -12,14 +12,13 @@
 </ul>
 <p>With over 30 years in the test and measurement industry, we have the experience to help you solve your difficult measurement problems.</p>
 
- 
 <h2>Software Development</h2>
 
 <p>Metratek also develops custom software applications for engineering and production test.  We provide assistance all the way from specifying the test through implementing the application.   Areas of expertise include:</p>
 <ul>
 	<li>Visual Basic</li>
-	<li>C/C++</li>
-	<li>Windows</li>
+	<li>C/C++/C#</li>
+	<li>Windows/Dot Net</li>
 	<li>Instrument interfacing - Oscilloscopes, Meters, Spectrum analyzers, Network analyzers</li>
 </ul>
 
